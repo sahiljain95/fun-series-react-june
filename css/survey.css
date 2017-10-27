@@ -1,0 +1,62 @@
+
+#content {
+  background-color: #D3D3D3;
+  border-radius:20px;
+  width: 100%;
+}
+
+
+
+#content h3,
+.main-header{
+	text-align: center;
+	font-style: bold;
+	font-family: cursive;
+}
+
+ul
+{
+    list-style-type: none;
+}
+
+ul li {
+	font-size: 1.2em;
+	font-family: monospace;
+}
+
+#question h4{
+	font-style: bold;
+	font-family: cursive;
+}
+
+#question-pagination .btn{
+
+	width: 100px;
+}
+
+#question-container{
+	background-color: white;
+	border-radius: 10px;
+	border: 10px solid black;
+	padding: 10px;
+	width: 60%;
+}
+
+#question-pagination{
+
+	text-align: center;
+	margin: 0 auto;
+	display: block;
+}
+
+#left-button{
+	margin-right: 10px;
+}
+
+#right-button{
+	margin-left: 10px;
+}
+
+#question{
+	margin-left: 10px;
+}
